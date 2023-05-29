@@ -1,2 +1,2 @@
-# git-flow-practice
-This is an exercise in practicing git flow.
+# gitflow-practice
+This is an exercise in practicing gitflow.
